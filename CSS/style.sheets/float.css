@@ -1,0 +1,18 @@
+image {
+    height: 100;
+    width: 100;
+}
+
+p {
+    background-color: yellow;
+}
+
+#div1 {
+    background-color: chartreuse;
+    float: left;
+}
+#div2 {
+    background-color: aquamarine;
+    clear: left;
+}
+

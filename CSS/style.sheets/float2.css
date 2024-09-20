@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+#div1 {
+    background-color: aquamarine;
+    height: 50px;
+}
+#div2 {
+    background-color: chartreuse;
+    float: left;
+    height: 300px;
+    width: 30%;
+    padding: 100px;
+}
+#div3 {
+    background-color: cyan;
+    height: 300px;
+    width: 100%;
+}
